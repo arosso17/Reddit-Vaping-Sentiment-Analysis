@@ -1,0 +1,9 @@
+pandas
+nltk
+langdetect
+scikit-learn
+numpy
+matplotlib
+wordcloud
+praw
+scipy

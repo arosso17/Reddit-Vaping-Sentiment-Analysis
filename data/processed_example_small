@@ -1,0 +1,2 @@
+titles|*|comments|*|string|*|tokens|*|processed_strings
+yuh bruv|*|["I haven't smoked in 5 years thanks to https://smokefree.gov and I have never been better!"]|*|["I haven't smoked in  years thanks to URL and I have never been better "]|*|[['I', 'smoke', 'year', 'thanks', 'URL', 'I', 'never', 'better']]|*|['I smoke year thanks URL I never better']
